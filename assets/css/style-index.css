@@ -1,0 +1,38 @@
+.container{
+    margin-top: -7%;
+}
+
+body{
+    background: #E5E5E5;
+}
+
+ul{
+    list-style-type: none;
+}
+.tr1{
+ margin-left: 20%;
+}
+
+.ul{
+    margin-left: 17%;
+}
+table{
+    background: white;
+    border-radius: 1%;
+    box-shadow: 10px 10px 5px #aaaaaa;
+}
+table:hover{
+    background-color: #b6b8bb;
+}
+.col-sm-8{
+margin-left:20% ;
+}
+.a1{
+    color: black;
+    text-decoration: none;
+}
+.a1:hover{
+    color: rgb(0, 0, 0);
+    
+}
+
